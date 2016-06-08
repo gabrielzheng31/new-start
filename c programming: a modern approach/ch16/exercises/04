@@ -1,0 +1,6 @@
+#a
+
+typedef struct {
+	double real;
+	double imaginary;
+} Complex;
